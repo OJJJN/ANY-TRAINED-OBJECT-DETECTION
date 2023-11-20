@@ -1,4 +1,5 @@
-# Welcome to the ANY-TRAINED-OBJECT-DETECTION repository! This repository houses a trained object detection model that you are invited to collaborate on. The trained model is designed to accurately detect objects in various scenarios, providing a valuable resource for computer vision tasks.
+# Welcome to the ANY-TRAINED-OBJECT-DETECTION repository! 
+This repository houses a trained object detection model that you are invited to collaborate on. The trained model is designed to accurately detect objects in various scenarios, providing a valuable resource for computer vision tasks.
 
 As a collaborator, you have the opportunity to contribute to the development and improvement of this object detection system. Whether you're an experienced developer or new to the field, your contributions are highly valued.
 
